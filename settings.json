@@ -1,9 +1,0 @@
-{
-    "api.key.bot" : "5554525558:AAHY7yEOXZhlPxlZZkLkeEACTN1bTRdlMhE",
-    "api.key.zakupki" : "780b3539a3011ef47648904e252aa577cee237a8",
-    "api.key.fns" : "7d94224ada019dbff5390249379b9ffe51a8547a",
-    "api.url.zakupki" : "https://api.damia.ru/zakupki/",
-    "api.url.fns" : "https://api-fns.ru/api/",
-    "visual.symbol.ok" : "✔️",
-    "visual.symbol.bad" : "➖"
-}
