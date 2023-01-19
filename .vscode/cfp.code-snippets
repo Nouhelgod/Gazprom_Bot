@@ -1,0 +1,13 @@
+{
+	"pn": {
+		"prefix": "pn",
+		"body": "company.${1:pro} = self.checkProsFor(category, '${2:name}')",
+		"description": "description"
+	},
+
+	"text": {
+		"prefix": "te",
+		"body": "text += '-${1:Статус}: ' + self.bold(company.${2:negativeStatus}) + '\\n'",
+		"description": "description"
+	}
+}
